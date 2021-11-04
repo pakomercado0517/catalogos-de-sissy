@@ -1,126 +1,96 @@
 {
   "Cklass":[
     {
-    "image":"https://www.cklass.com/site/assets/files/1529/ropa_invierno-min.jpg",
-    "url":"https://www.cklass.com/Catalogo/complementoinvierno1ropa/",
-    "name":"Colección Invierno Fashionline",
-    "name_url":"https://www.cklass.com/Catalogo/complementoinvierno1ropa/"
+    "image":"https://www.cklass.com/site/assets/files/1529/rebajas_calzado-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Rebajas_Calzado/",
+    "name":"Rebajas Calzado OI2021"
     },
     {
-    "image":"https://www.cklass.com/site/assets/files/1528/calzado_invierno-min.jpg",
-    "url":"https://www.cklass.com/Catalogo/complementoinvierno2calzado/",
-    "name":"Colección Invierno Calzado",
-    "name_url":"https://www.cklass.com/Catalogo/complementoinvierno2calzado/"
+    "image":"https://www.cklass.com/site/assets/files/1528/rebajas_ropa-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Rebajas/",
+    "name":"Rebajas OI2021"
     },
     {
-    "image":"https://www.cklass.com/site/assets/files/1514/city_colors_oct_1-min.jpg",
-    "url":"https://www.cklass.com/Catalogo/CityColors/",
-    "name":"City Colors",
-    "name_url":"https://www.cklass.com/Catalogo/CityColors/"
+    "image":"https://www.cklass.com/site/assets/files/1514/cklass_home_1_-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/CklassHome",
+    "name":"Cklass Home"
     },
     {
-    "image":"https://www.cklass.com/site/assets/files/1533/sb_invierno-min.jpg",
-    "url":"https://www.cklass.com/Catalogo/Sportbrands/",
-    "name":"SportBrands",
-    "name_url":"https://www.cklass.com/Catalogo/Sportbrands/"
+    "image":"https://www.cklass.com/site/assets/files/1533/rebajas_we_1_-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/RebajasWe",
+    "name":"Rebajas We Cosmetics"
     },
     {
-    "image":"https://www.cklass.com/site/assets/files/1542/promo_semana_oct_1-min.jpg",
-    "url":"https://www.cklass.com/Catalogo/Promocion_de_la_semana/",
-    "name":"Promoción de la Semana",
-    "name_url":"https://www.cklass.com/Catalogo/Promocion_de_la_semana/"
-    },
-    {
-    "image":"https://www.cklass.com/site/assets/files/1561/3x2_oct_1-min.jpg",
-    "url":"https://www.cklass.com/Catalogo/Promocion3X2/",
-    "name":"3x2",
-    "name_url":"https://www.cklass.com/Catalogo/Promocion3X2/"
+    "image":"https://www.cklass.com/site/assets/files/1561/rebajas_sportbrands-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/RebajasSportBrands",
+    "name":"Rebajas Sport Brands"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1446/fashionline_oi21-min.jpg",
     "url":"https://www.cklass.com/Catalogo/Fashionline/",
-    "name":"Colección",
-    "name_url":"https://www.cklass.com/Catalogo/Fashionline/"
+    "name":"Colección"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1515/lencer_a_oi21_2.jpg",
     "url":"https://www.cklass.com/Catalogo/Lenceria/",
-    "name":"Lencería",
-    "name_url":"https://www.cklass.com/Catalogo/Lenceria/"
-    },
-    {
-    "image":"https://www.cklass.com/site/assets/files/1576/we_oi21-min.jpg",
-    "url":"https://www.cklass.com/Catalogo/WeCosmetics/",
-    "name":"We Cosmetics",
-    "name_url":"https://www.cklass.com/Catalogo/WeCosmetics/"
+    "name":"Lencería"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1398/c_mujer_oi21-min.jpg",
     "url":"https://www.cklass.com/Catalogo/Dama/",
-    "name":"C Mujer",
-    "name_url":"https://www.cklass.com/Catalogo/Dama/"
+    "name":"C Mujer"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1294/confort_oi21-min.jpg",
     "url":"https://www.cklass.com/Catalogo/Confort/",
-    "name":"Confort",
-    "name_url":"https://www.cklass.com/Catalogo/Confort/"
+    "name":"Confort"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1296/gala_oi21-min.jpg",
     "url":"https://www.cklass.com/Catalogo/Gala/",
-    "name":"Gala & Glamour",
-    "name_url":"https://www.cklass.com/Catalogo/Gala/"
+    "name":"Gala & Glamour"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1295/urban_oi21-min.jpg",
     "url":"https://www.cklass.com/Catalogo/Urban/",
-    "name":"Urban",
-    "name_url":"https://www.cklass.com/Catalogo/Urban/"
+    "name":"Urban"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1535/botas_oi21-min.jpg",
     "url":"https://www.cklass.com/Catalogo/Botas/",
-    "name":"Botas y Botines",
-    "name_url":"https://www.cklass.com/Catalogo/Botas/"
+    "name":"Botas y Botines"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1383/six_d_o_oi21-min.jpg",
     "url":"https://www.cklass.com/Catalogo/Six/",
-    "name":"Six & Duo Pack",
-    "name_url":"https://www.cklass.com/Catalogo/Six/"
+    "name":"Six & Duo Pack"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1309/bolsos_oi21-min.jpg",
     "url":"https://www.cklass.com/Catalogo/Bolsos/",
-    "name":"Colección",
-    "name_url":"https://www.cklass.com/Catalogo/Bolsos/"
+    "name":"Colección"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1306/calzado_caballero_oi21-min.jpg",
     "url":"https://www.cklass.com/Catalogo/Caballero/",
-    "name":"Calzado",
-    "name_url":"https://www.cklass.com/Catalogo/Caballero/"
+    "name":"Calzado"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1424/ropa_caballero_oi21-min.jpg",
     "url":"https://www.cklass.com/Catalogo/Caballero2/",
-    "name":"Ropa",
-    "name_url":"https://www.cklass.com/Catalogo/Caballero2/"
+    "name":"Ropa"
     },
     {
-    "image":"https://www.cklass.com/site/assets/files/1311/sb_invierno-min.jpg",
-    "url":"https://www.cklass.com/Catalogo/Sportbrands/",
-    "name":"Colección",
-    "name_url":"https://www.cklass.com/Catalogo/Sportbrands/"
+    "image":"https://www.cklass.com/site/assets/files/1311/rebajas_sportbrands-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/RebajasSportBrands",
+    "name":"Rebajas Sport Brands"
     },
     {
     "image":"https://www.cklass.com/site/assets/files/1310/kids_oi21-min.jpg",
     "url":"https://www.cklass.com/Catalogo/Kids/",
-    "name":"Kids & Teen",
-    "name_url":"https://www.cklass.com/Catalogo/Kids/"
+    "name":"Kids & Teen"
     }
-  ],
+    ],
   "Andrea":[
     {
     "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/263-1-1-1-30/Imagen/attachments/CALZADO%20DAMA.jpg",
@@ -133,7 +103,7 @@
     "name":"ANDREA VESTIR"
     },
     {
-    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/14-1-1-1-30/Imagen/attachments/LENCERIA%20Y%20VESTIR%20INTERIOR8.jpg",
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/14-1-1-1-30/Imagen/attachments/LENCERIA%20Y%20VESTIR%20INTERIOR.jpg",
     "url":"http://cdn-img.andrea.com/mx/1/14/",
     "name":"LENCERÍA & VESTIR INTERIOR"
     },
@@ -183,19 +153,34 @@
     "name":"FERRATO SPORT"
     },
     {
-    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/322-1-1-17-30/Imagen/attachments/OUTLET.jpg",
-    "url":"http://cdn-img.andrea.com/mx/17/322/",
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/328-1-1-17-30/Imagen/attachments/OUTLET.jpg",
+    "url":"http://cdn-img.andrea.com/mx/17/328/",
     "name":"OUTLET"
     },
     {
-    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/437-1-1-1-30/Imagen/attachments/PROMOTOR%20PACKS.jpg",
-    "url":"http://cdn-img.andrea.com/mx/1/437/",
-    "name":"PROMOTOR PACKS"
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/205-1-1-1-30/Imagen/attachments/BUEN%20FIN.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/205/",
+    "name":"BUEN FIN"
     },
     {
-    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/429-1-1-1-30/Imagen/attachments/MID%20SEASON.jpg",
-    "url":"http://cdn-img.andrea.com/mx/1/429/",
-    "name":"MID SEASON"
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/329-1-1-1-30/Imagen/attachments/DESTELLOS%20DE%20INVIERNO.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/329/",
+    "name":"DESTELLOS DE INVIERNO"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/439-1-1-1-30/Imagen/attachments/AEROPOSTALE.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/439/",
+    "name":"AEROPOSTALE"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/403-1-1-1-30/Imagen/attachments/PIJAMAS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/403/",
+    "name":"PIJAMAS"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/185-1-1-1-30/Imagen/attachments/PROMOTOR%20BOTAS%20Y%20BOTINES.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/185/",
+    "name":"PROMOTOR BOTAS Y BOTINES"
     },
     {
     "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/42-1-1-1-30/Imagen/attachments/DR.%20SCHOLLS.jpg",
@@ -206,16 +191,6 @@
     "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/94-1-1-1-30/Imagen/attachments/ANDREA%20TEENS.jpg",
     "url":"http://cdn-img.andrea.com/mx/1/94/",
     "name":"ANDREA TEENS"
-    },
-    {
-    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/395-1-1-1-30/Imagen/attachments/COLEGIAL%20KIDS.jpg",
-    "url":"http://cdn-img.andrea.com/mx/1/395/",
-    "name":"COLEGIAL KIDS"
-    },
-    {
-    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/396-1-1-1-30/Imagen/attachments/COLEGIAL%20TEENS.jpg",
-    "url":"http://cdn-img.andrea.com/mx/1/396/",
-    "name":"COLEGIAL TEENS"
     },
     {
     "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/283-1-1-1-30/Imagen/attachments/ANDREA%20TROPICAL.jpg",

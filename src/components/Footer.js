@@ -40,7 +40,11 @@ export const Footer = () => {
             </p>
             <p>
               <FontAwesomeIcon icon={["fa", "envelope"]} className="mr-3" />
-              sissy_ayle14@hotmail.com shirsava14@gmail.com
+              sissy_ayle14@hotmail.com
+            </p>
+            <p>
+              <FontAwesomeIcon icon={["fa", "envelope"]} className="mr-3" />
+              shirsava14@gmail.com
             </p>
           </Col>
         </Row>
