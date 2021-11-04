@@ -1,0 +1,446 @@
+{
+  "Cklass":[
+    {
+    "image":"https://www.cklass.com/site/assets/files/1529/ropa_invierno-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/complementoinvierno1ropa/",
+    "name":"Colección Invierno Fashionline",
+    "name_url":"https://www.cklass.com/Catalogo/complementoinvierno1ropa/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1528/calzado_invierno-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/complementoinvierno2calzado/",
+    "name":"Colección Invierno Calzado",
+    "name_url":"https://www.cklass.com/Catalogo/complementoinvierno2calzado/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1514/city_colors_oct_1-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/CityColors/",
+    "name":"City Colors",
+    "name_url":"https://www.cklass.com/Catalogo/CityColors/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1533/sb_invierno-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Sportbrands/",
+    "name":"SportBrands",
+    "name_url":"https://www.cklass.com/Catalogo/Sportbrands/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1542/promo_semana_oct_1-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Promocion_de_la_semana/",
+    "name":"Promoción de la Semana",
+    "name_url":"https://www.cklass.com/Catalogo/Promocion_de_la_semana/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1561/3x2_oct_1-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Promocion3X2/",
+    "name":"3x2",
+    "name_url":"https://www.cklass.com/Catalogo/Promocion3X2/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1446/fashionline_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Fashionline/",
+    "name":"Colección",
+    "name_url":"https://www.cklass.com/Catalogo/Fashionline/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1515/lencer_a_oi21_2.jpg",
+    "url":"https://www.cklass.com/Catalogo/Lenceria/",
+    "name":"Lencería",
+    "name_url":"https://www.cklass.com/Catalogo/Lenceria/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1576/we_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/WeCosmetics/",
+    "name":"We Cosmetics",
+    "name_url":"https://www.cklass.com/Catalogo/WeCosmetics/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1398/c_mujer_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Dama/",
+    "name":"C Mujer",
+    "name_url":"https://www.cklass.com/Catalogo/Dama/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1294/confort_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Confort/",
+    "name":"Confort",
+    "name_url":"https://www.cklass.com/Catalogo/Confort/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1296/gala_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Gala/",
+    "name":"Gala & Glamour",
+    "name_url":"https://www.cklass.com/Catalogo/Gala/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1295/urban_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Urban/",
+    "name":"Urban",
+    "name_url":"https://www.cklass.com/Catalogo/Urban/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1535/botas_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Botas/",
+    "name":"Botas y Botines",
+    "name_url":"https://www.cklass.com/Catalogo/Botas/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1383/six_d_o_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Six/",
+    "name":"Six & Duo Pack",
+    "name_url":"https://www.cklass.com/Catalogo/Six/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1309/bolsos_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Bolsos/",
+    "name":"Colección",
+    "name_url":"https://www.cklass.com/Catalogo/Bolsos/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1306/calzado_caballero_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Caballero/",
+    "name":"Calzado",
+    "name_url":"https://www.cklass.com/Catalogo/Caballero/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1424/ropa_caballero_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Caballero2/",
+    "name":"Ropa",
+    "name_url":"https://www.cklass.com/Catalogo/Caballero2/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1311/sb_invierno-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Sportbrands/",
+    "name":"Colección",
+    "name_url":"https://www.cklass.com/Catalogo/Sportbrands/"
+    },
+    {
+    "image":"https://www.cklass.com/site/assets/files/1310/kids_oi21-min.jpg",
+    "url":"https://www.cklass.com/Catalogo/Kids/",
+    "name":"Kids & Teen",
+    "name_url":"https://www.cklass.com/Catalogo/Kids/"
+    }
+  ],
+  "Andrea":[
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/263-1-1-1-30/Imagen/attachments/CALZADO%20DAMA.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/263/",
+    "name":"CALZADO DAMA"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/241-1-1-1-30/Imagen/attachments/ANDREA%20VESTIR.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/241/",
+    "name":"ANDREA VESTIR"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/14-1-1-1-30/Imagen/attachments/LENCERIA%20Y%20VESTIR%20INTERIOR8.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/14/",
+    "name":"LENCERÍA & VESTIR INTERIOR"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/16-1-1-1-30/Imagen/attachments/BELLEZA%20INTEGRAL%20DAMA.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/16/",
+    "name":"BELLEZA INTEGRAL DAMA"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/89-1-1-1-30/Imagen/attachments/CALZADO%20CONFORT.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/89/",
+    "name":"CALZADO CONFORT"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/5-1-1-1-30/Imagen/attachments/CALZADO%20CABALLERO.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/5/",
+    "name":"CALZADO CABALLERO"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/36-1-1-1-30/Imagen/attachments/VESTIR%20CABALLERO.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/36/",
+    "name":"VESTIR CABALLERO"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/242-1-1-1-30/Imagen/attachments/INFANTIL.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/242/",
+    "name":"INFANTIL"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/434-1-1-1-30/Imagen/attachments/INFANTIL%20BABY.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/434/",
+    "name":"INFANTIL BABY"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/18-1-1-1-30/Imagen/attachments/BOLSAS%20Y%20ACCESORIOS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/18/",
+    "name":"BOLSAS Y ACCESORIOS"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/410-1-1-26-30/Imagen/attachments/ANDREA%20SPORT.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/410/",
+    "name":"ANDREA SPORT"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/411-1-1-26-30/Imagen/attachments/FERRATO%20SPORT.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/411/",
+    "name":"FERRATO SPORT"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/322-1-1-17-30/Imagen/attachments/OUTLET.jpg",
+    "url":"http://cdn-img.andrea.com/mx/17/322/",
+    "name":"OUTLET"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/437-1-1-1-30/Imagen/attachments/PROMOTOR%20PACKS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/437/",
+    "name":"PROMOTOR PACKS"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/429-1-1-1-30/Imagen/attachments/MID%20SEASON.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/429/",
+    "name":"MID SEASON"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/42-1-1-1-30/Imagen/attachments/DR.%20SCHOLLS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/42/",
+    "name":"DR. SCHOLLS"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/94-1-1-1-30/Imagen/attachments/ANDREA%20TEENS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/94/",
+    "name":"ANDREA TEENS"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/395-1-1-1-30/Imagen/attachments/COLEGIAL%20KIDS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/395/",
+    "name":"COLEGIAL KIDS"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/396-1-1-1-30/Imagen/attachments/COLEGIAL%20TEENS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/396/",
+    "name":"COLEGIAL TEENS"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/283-1-1-1-30/Imagen/attachments/ANDREA%20TROPICAL.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/283/",
+    "name":"ANDREA TROPICAL"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/407-1-1-26-30/Imagen/attachments/URBANO%20DEPORTIVO.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/407/",
+    "name":"URBANO DEPORTIVO"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/412-1-1-26-30/Imagen/attachments/DEPORTIVO%20INFANTIL.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/412/",
+    "name":"DEPORTIVO INFANTIL"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/59-1-1-26-30/Imagen/attachments/ADIDAS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/59/",
+    "name":"ADIDAS"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/60-1-1-26-30/Imagen/attachments/NIKE.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/60/",
+    "name":"NIKE"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/63-1-1-26-30/Imagen/attachments/PUMA.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/63/",
+    "name":"PUMA"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/62-1-1-26-30/Imagen/attachments/REEBOK.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/62/",
+    "name":"REEBOK"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/334-1-1-26-30/Imagen/attachments/AEROPOSTALE.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/334/",
+    "name":"AEROPOSTALE"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/336-1-1-26-30/Imagen/attachments/VANS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/336/",
+    "name":"VANS"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/44-1-1-26-30/Imagen/attachments/CONVERSE.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/44/",
+    "name":"CONVERSE"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/289-1-1-26-30/Imagen/attachments/UNDER%20ARMOUR.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/289/",
+    "name":"UNDER ARMOUR"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/249-1-1-26-30/Imagen/attachments/SKECHERS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/249/",
+    "name":"SKECHERS"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/247-1-1-26-30/Imagen/attachments/PIRMA.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/247/",
+    "name":"PIRMA"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/287-1-1-26-30/Imagen/attachments/PANAM.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/287/",
+    "name":"PANAM"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/255-1-1-26-30/Imagen/attachments/WILSON.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/255/",
+    "name":"WILSON"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/435-1-1-26-30/Imagen/attachments/POLO%20CLUB.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/435/",
+    "name":"POLO CLUB"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/419-1-1-26-30/Imagen/attachments/PARA%20LA%20AVENTURA.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/419/",
+    "name":"PARA LA AVENTURA"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/307-1-1-1-30/Imagen/attachments/PROFESIONAL%20E%20INDUSTRIAL.jpg",
+    "url":"http://cdn-img.andrea.com/mx/1/307/",
+    "name":"PROFESIONAL E INDUSTRIAL"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/284-1-1-26-30/Imagen/attachments/DEPORTIVO%20BELLEZA%20INTEGRAL.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/284/",
+    "name":"DEPORTIVO BELLEZA INTEGRAL"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/217-1-1-26-30/Imagen/attachments/ACCESORIOS%20DEPORTIVOS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/217/",
+    "name":"ACCESORIOS DEPORTIVOS"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/392-1-1-26-30/Imagen/attachments/DEPORTIVO%20PLAYA.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/392/",
+    "name":"DEPORTIVO PLAYA"
+    },
+    {
+    "image":"http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/294-1-1-26-30/Imagen/attachments/ZONA%20DESCUENTOS.jpg",
+    "url":"http://cdn-img.andrea.com/mx/26/294/",
+    "name":"ZONA DESCUENTOS"
+    }
+    ],
+"PriceShoes":[
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Kidsotonoinvierno2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Kidsotonoinvierno2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Manotonoinvierno2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Manotonoinvierno2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Abrigadorotonoinvierno2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Abrigadorotonoinvierno2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/101618396_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/101618396"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Ella2021OtoInv_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Ella2021OtoInv"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/101143596_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/101143596"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/jeansotoinv2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/jeansotoinv2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Botas2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Botas2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/botaslluvia2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/botaslluvia2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Escolar2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Escolar2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Mochilas2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Mochilas2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/T1_2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/T1_2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Importadossummer21_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Importadossummer21"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/KidsT1_2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/KidsT1_2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Caballeros20_21_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Caballeros20_21"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/LovetoLounge_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/LovetoLounge"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Accesorios2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Accesorios2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/VestirCasual2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/VestirCasual2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Vogue2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Vogue2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Confort2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Confort2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Man2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Man2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Jeans2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Jeans2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/sandalias2021_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/sandalias2021"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Todohasta199_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Todohasta199"
+    },
+    {
+    "image":"https://images.priceshoes.digital/catalogos/Todohasta299_0.jpg",
+    "url":"https://catalogos.priceshoes.digital/catalogos/Todohasta299"
+    }
+    ],
+  "Concord": [
+    {
+      "image": "https://www.colchasconcord.com.mx/media/wysiwyg/c1.jpg",
+      "url": "https://www.colchasconcord.com.mx/media/pdf/CATALOGO_DIGITAL_C8.pdf",
+      "name": "Catálogo Digital"
+    }
+  ],
+  "Betterware": [
+    {
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/e0/72/d5/e072d57b-e76c-ec63-b844-9974409b61be/source/512x512bb.jpg",
+      "url": "https://www.betterware.com.mx/mx/es/catalogo"
+    }
+  ]
+}

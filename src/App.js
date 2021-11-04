@@ -1,24 +1,37 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import "./Card.css";
+import "./Footer.css";
+import "bulma/css/bulma.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { Switch, Route } from "react-router-dom";
+import { Home } from "./Pages/Home";
+import { CatalogosList } from "./components/CatalogosList";
+// import { Cotizacion } from "./Pages/Cotizacion";
+import { NotFound } from "./Pages/NotFound";
+import { fab } from "@fortawesome/free-brands-svg-icons";
+import { fas } from "@fortawesome/free-solid-svg-icons";
+import { library } from "@fortawesome/fontawesome-svg-core";
+import { Header } from "./components/Header";
+import { Footer } from "./components/Footer";
+import { ModalCatalogo } from "./components/ModalCatalogo";
+// import { CotizacionForm } from "./components/CotizacionForm";
+import { Cotizacion } from "./Pages/Cotizacion";
+
+library.add(fab, fas);
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route exact path="/catalogos/:name" component={CatalogosList} />
+        <Route exact path="/cotizacion" component={Cotizacion} />
+        <Route path="/:url" component={ModalCatalogo} />
+        <Route component={NotFound} />
+      </Switch>
+      <Footer />
     </div>
   );
 }
