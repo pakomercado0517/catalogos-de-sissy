@@ -1,0 +1,25 @@
+.modalContainer {
+  position: fixed;
+  /* bottom: 20px; */
+  /* left: 25px; */
+  z-index: 1;
+  margin-left: 10px;
+}
+
+/* .modalHandler {
+  width: 100%;
+  position: absolute;
+} */
+
+.button_close {
+  width: 30px;
+  height: 30px;
+  border: 2px solid black;
+  color: #fff;
+  background-color: red;
+  position: relative;
+  top: 18px;
+  /* left: 65vw; */
+  border-radius: 25%;
+  cursor: pointer;
+}

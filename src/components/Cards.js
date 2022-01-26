@@ -5,13 +5,14 @@ export class Cards extends Component {
   static propTypes = {
     name: PropTypes.string,
     img: PropTypes.string,
+    url: PropTypes.string,
   };
   render() {
-    let { name, img } = this.props;
+    let { name, img, url } = this.props;
     return (
       <div className="card">
         <div className="card_image">
-          <img src={img} alt={name} />
+          <img src={img} alt={name} name={url} />
         </div>
         <div className="card_title title-white">
           <p>{name}</p>
