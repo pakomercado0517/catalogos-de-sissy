@@ -6,7 +6,7 @@ import "bulma/css/bulma.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Switch, Route } from "react-router-dom";
 import { Home } from "./Pages/Home";
-import { CatalogosList } from "./components/CatalogosList";
+import CatalogosList from "./components/CatalogosList";
 // import { Cotizacion } from "./Pages/Cotizacion";
 import { NotFound } from "./Pages/NotFound";
 import { fab } from "@fortawesome/free-brands-svg-icons";
@@ -26,7 +26,7 @@ function App() {
       <Header />
       <Switch>
         <Route exact path="/" component={Home} />
-        <Route exact path="/catalogos/:name" component={CatalogosList} />
+        <Route exact path="/catalogos" component={CatalogosList} />
         <Route exact path="/cotizacion" component={Cotizacion} />
         <Route path="/:url" component={ModalCatalogo} />
         <Route component={NotFound} />

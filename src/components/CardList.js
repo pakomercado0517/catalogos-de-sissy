@@ -1,33 +1,43 @@
-import React, { Component } from "react";
+import React, { useEffect } from "react";
 import { PropTypes } from "prop-types";
 import data from "./cards.json";
 import { Cards } from "./Cards";
 import { Link } from "react-router-dom";
+import { getAllCompanies, getCatalogoByCompanyId } from "../redux/actions";
+import { useDispatch, useSelector } from "react-redux";
 
-export class CardList extends Component {
-  constructor(props) {
-    super(props);
-    this.name = this.props.name;
-    this.img = this.props.img;
-  }
+const CardList = () => {
+  const dispatch = useDispatch();
+  const allCompanies = useSelector((state) => state.allCompanies);
 
-  static propTypes = {
-    data: PropTypes.array,
+  useEffect(() => {
+    dispatch(getAllCompanies());
+  }, [dispatch]);
+
+  const handleClick = (id) => {
+    dispatch(getCatalogoByCompanyId(id));
   };
 
-  render() {
-    return (
-      <div className="col-lg-auto cards-list">
-        {data.map((data) => {
-          return (
-            <div key={data.id}>
-              <Link to={`/catalogos/${data.name}`}>
-                <Cards name="" img={data.img} />
-              </Link>
-            </div>
-          );
-        })}
-      </div>
-    );
-  }
-}
+  console.log("allCompanies", allCompanies);
+
+  return (
+    <div className="col-lg-auto cards-list">
+      {allCompanies.map((data) => {
+        return (
+          <div key={data.id}>
+            <Link
+              to={`/catalogos`}
+              onClick={() => {
+                handleClick(data.id);
+              }}
+            >
+              <Cards name="" img={data.image} />
+            </Link>
+          </div>
+        );
+      })}
+    </div>
+  );
+};
+
+export default CardList;
