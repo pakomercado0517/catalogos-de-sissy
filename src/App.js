@@ -5,7 +5,7 @@ import "./Footer.css";
 import "bulma/css/bulma.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Switch, Route } from "react-router-dom";
-import { Home } from "./Pages/Home";
+import Home from "./Pages/Home";
 import CatalogosList from "./components/CatalogosList";
 // import { Cotizacion } from "./Pages/Cotizacion";
 import { NotFound } from "./Pages/NotFound";

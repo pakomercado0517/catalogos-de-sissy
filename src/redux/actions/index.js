@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const hosting = {
-  localhost: "https://catalogos-app.herokuapp.com",
+  localhost: "https://catalogos-api.onrender.com",
 };
 
 export const GET_ALL_COMPANIES = "GET_ALL_COMPANIES";
