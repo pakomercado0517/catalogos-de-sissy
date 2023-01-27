@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import { PropTypes } from "prop-types";
-import data from "./cards.json";
+// import { PropTypes } from "prop-types";
+// import data from "./cards.json";
 import { Cards } from "./Cards";
 import { Link } from "react-router-dom";
 import { getAllCompanies, getCatalogoByCompanyId } from "../redux/actions";
