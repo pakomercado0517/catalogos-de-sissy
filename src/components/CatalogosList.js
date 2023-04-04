@@ -5,14 +5,22 @@ import { ModalCatalogo } from "./ModalCatalogo";
 import s from "./styles/CatalogosList.module.css";
 import { useDispatch, useSelector } from "react-redux";
 import { getCataologoUrl } from "../redux/actions/";
-
+import {
+  Andrea,
+  Cklass,
+  PriceShoes,
+  Concord,
+  Betterware,
+} from "../localDb/catalogos";
 const CatalogosList = () => {
+  const catalogos = { Andrea, Cklass, PriceShoes, Concord, Betterware };
   const [cataShow, setcataShow] = useState(false);
   const [catUrl, setCatUrl] = useState("");
   const dispatch = useDispatch();
-  const companyCatalogo = useSelector((state) => state.companyCatalogo);
+  const catalogoName = useSelector((state) => state.catalogoName);
+  const companyCatalogo = catalogos[`${catalogoName}`];
 
-  console.log("companyCatalogo", companyCatalogo);
+  console.log("catalogoName", catalogoName);
 
   const handleClose = () => {
     setcataShow(false);
@@ -40,13 +48,12 @@ const CatalogosList = () => {
           )}
         </div>
         <div className="cards-list">
-          {companyCatalogo.map((el) => {
+          {companyCatalogo.map((el, index) => {
             return (
-              <>
+              <div key={index}>
                 <a
                   href={el.url}
                   target={el.name ? el.url : "_self"}
-                  key={`${el.id}`}
                   name={el.url}
                   onClick={() => {
                     if (el.name) {
@@ -58,7 +65,7 @@ const CatalogosList = () => {
                 >
                   <Cards name={el.name} img={el.image} url={el.url} />
                 </a>
-              </>
+              </div>
             );
           })}
           <div className="buttonBack">

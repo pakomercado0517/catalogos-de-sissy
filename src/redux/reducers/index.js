@@ -2,12 +2,14 @@ import {
   GET_ALL_COMPANIES,
   GET_CATALOGOS_BY_COMPANY_ID,
   GET_CATALOGO_URL,
+  GET_CATALOGO_BY_NAME,
 } from "../actions";
 
 const initialState = {
   allCompanies: [],
   companyCatalogo: [],
   catalogoUrl: "",
+  catalogoName: "",
 };
 
 export const rootReducer = (state = initialState, { type, payload }) => {
@@ -28,6 +30,12 @@ export const rootReducer = (state = initialState, { type, payload }) => {
       return {
         ...state,
         catalogoUrl: payload,
+      };
+
+    case GET_CATALOGO_BY_NAME:
+      return {
+        ...state,
+        catalogoName: payload,
       };
 
     default:
