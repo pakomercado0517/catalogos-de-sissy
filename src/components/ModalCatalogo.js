@@ -3,7 +3,7 @@ import Iframe from "react-iframe";
 import s from "./styles/ModalCatalogo.module.css";
 // import { ButtonCotizacion } from "./ButtonCotizacion";
 
-export function ModalCatalogo(props) {
+export function ModalCatalogo({ url, name }) {
   // const url = window.location.pathname;
   // const _URL = url.slice(1);
   // console.log(_URL);
@@ -13,12 +13,12 @@ export function ModalCatalogo(props) {
     <>
       <div>
         <Iframe
-          url={props.name}
-          name={props.name}
-          // width="100%"
-          // height="100%"
-          // display="fixed"
-          // position="relative"
+          url={url}
+          name={name}
+          width="80%"
+          height="90%"
+          display="fixed"
+          position="relative"
           className={`${s.frameContainer}`}
         />
       </div>

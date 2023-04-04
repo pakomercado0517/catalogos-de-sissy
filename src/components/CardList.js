@@ -27,7 +27,7 @@ const CardList = () => {
         return (
           <div key={data.id}>
             <Link
-              to={`/catalogos`}
+              to={`/catalogos/${data.name}`}
               onClick={() => {
                 handleClick(data.name);
               }}

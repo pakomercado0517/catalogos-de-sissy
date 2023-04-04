@@ -26,9 +26,9 @@ function App() {
       <Switch>
         <Route exact path="/" component={Home} />
         <Route exact path="/count/money" component={CountMoney} />
-        <Route exact path="/catalogos" component={CatalogosList} />
+        <Route exact path="/catalogos/:name" component={CatalogosList} />
         <Route exact path="/cotizacion" component={Cotizacion} />
-        <Route path="/:url" component={ModalCatalogo} />
+        {/* <Route path="/:url" component={ModalCatalogo} /> */}
         <Route component={NotFound} />
       </Switch>
       <Footer />

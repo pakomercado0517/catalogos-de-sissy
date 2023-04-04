@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Cards } from "./Cards";
 import { ButtonBackToHome } from "./ButtonBackToHome";
 import { ModalCatalogo } from "./ModalCatalogo";
@@ -12,15 +12,20 @@ import {
   Concord,
   Betterware,
 } from "../localDb/catalogos";
+import { useParams } from "react-router-dom";
+
 const CatalogosList = () => {
+  const { name } = useParams();
   const catalogos = { Andrea, Cklass, PriceShoes, Concord, Betterware };
   const [cataShow, setcataShow] = useState(false);
   const [catUrl, setCatUrl] = useState("");
   const dispatch = useDispatch();
   const catalogoName = useSelector((state) => state.catalogoName);
-  const companyCatalogo = catalogos[`${catalogoName}`];
+  const companyCatalogo = catalogos[`${name}`];
 
-  console.log("catalogoName", catalogoName);
+  useEffect(() => {}, [catalogoName]);
+
+  console.log("name", name);
 
   const handleClose = () => {
     setcataShow(false);
@@ -41,7 +46,11 @@ const CatalogosList = () => {
               <div onClick={handleClose} className={`${s.button_close}`}>
                 <span>X</span>
               </div>
-              <ModalCatalogo name={catUrl} closeButton={cataShow} />
+              <ModalCatalogo
+                url={catUrl}
+                name={catUrl}
+                closeButton={cataShow}
+              />
             </div>
           ) : (
             <></>
